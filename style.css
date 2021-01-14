@@ -174,4 +174,9 @@ section .footer .row.row2 ul:nth-child(2) li a{
 .buttons a { 
     color: inherit; 
     text-decoration: none;
-} 
+}
+
+.nav p{
+    margin-right: 1260px;
+    color: #555;
+}
